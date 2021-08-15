@@ -10,7 +10,11 @@
 ![Naive_confusion_matrix](https://user-images.githubusercontent.com/81929616/129495916-b6288163-f805-49b7-b384-d2b8fed2da16.PNG)
 ![Naive_balanced_classification_report](https://user-images.githubusercontent.com/81929616/129495917-18c69892-0362-446f-aefc-b106b09faccc.PNG)
 
-
+- Accuracy score: 66.1%
+- High Risk precision: 1%
+- Low Risk precision: 100%
+- High Risk recall: 66%
+- Low Risk recall: 67%
 
 ### SMOTE model
 
