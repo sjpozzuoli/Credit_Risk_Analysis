@@ -78,3 +78,4 @@
 
 ## Summary
 
+### After analyzing all of the models, there does not seem to be one that is truly effective for the detection of high risk credit, due to the extremely low precision scores on the high risk side. Even though the Easy Ensemble model has a 92.5% accuracy score and 91% high risk recall, because the precision is so low at 7%, LendingClub can not even be confident that the full number of high risk creditors has been identified.
